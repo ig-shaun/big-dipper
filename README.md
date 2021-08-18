@@ -20,6 +20,8 @@ Block Explorer for Cosmos
 
 [Explore LikeCoin Chain with Big Dipper](http://likecoin.bigdipper.live/)
 
+[Explore Impact Hub with Big Dipper](http://impacthub.bigdipper.live/)
+
 ## Projects with testnets
 
 [Agoric](https://explorer.testnet.agoric.com/)
